@@ -1,0 +1,161 @@
+body{
+    background-color:purple;
+}
+
+#postContainer .card{
+    transition: all 0.4s ease-in-out;
+}
+
+#postContainer .card:is(:hover,:active,:focus){
+    box-shadow: 5px 10px 10px #888;
+    transform: scale(1.01);
+}
+
+#postContainer .card h3{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.spinner{
+    position: fixed;
+    left:0;
+    top:0;
+    height: 100vh;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(255,255,255,.5);
+}
+
+.card-body{
+    background-color: #000;
+    color:#fff;
+}
+
+/* //=====================================2nd Times ============================================== */
+/* body{
+    background-color:purple;
+}
+
+#cardContainer .card{
+    transition: all 0.4s ease-in-out;
+}
+
+#cardContainer .card:is(:hover,:active,:focus){
+    box-shadow: 5px 10px 10px #888;
+    transform: scale(1.01);
+}
+
+#cardContainer .card h3{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.spinner{
+    position: fixed;
+    left:0;
+    top:0;
+    height: 100vh;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(255,255,255,.5);
+} */
+
+/* //====================================3rd Time ============================================== */
+
+/* body{
+    background-color:purple;
+}
+
+#cardContainer .card{
+    transition: all 0.4s ease-in-out;
+}
+
+#cardContainer .card:is(:hover,:active,:focus){
+    box-shadow: 5px 10px 10px #888;
+    transform: scale(1.01);
+}
+
+#cardContainer .card h3{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.spinner{
+    position: fixed;
+    left:0;
+    top:0;
+    height: 100vh;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(255,255,255,.5);
+} */
+
+/* //=============================================4th Time================================================ */
+/* 
+body{
+    background-color:aqua;
+}
+
+#cardContainer .card{
+    transition: all 0.4s ease-in-out;
+}
+
+#cardContainer .card:is(:hover,:active,:focus){
+    box-shadow: 5px 10px 10px #888;
+    transform: scale(1.01);
+}
+
+#cardContainer .card h3{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.spinner{
+    position: fixed;
+    left:0;
+    top:0;
+    height: 100vh;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(255,255,255,.5);
+} */
+
+/* //==============================================5th Times========================================= */
+
+/* body{
+    background-color:red;
+}
+
+#cardContainer .card{
+    transition: all 0.4s ease-in-out;
+}
+
+#cardContainer .card:is(:hover,:active,:focus){
+    box-shadow: 5px 10px 10px #888;
+    transform: scale(1.01);
+}
+
+#cardContainer .card h3{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.spinner{
+    position: fixed;
+    left:0;
+    top:0;
+    height: 100vh;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(255,255,255,.5);
+} */
